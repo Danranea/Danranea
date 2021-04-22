@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/-Outlook-007ACC?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
   <a
-    href="https://www.linkedin.com/in/danilo-da-silva-ranea-511200128/" 
+    href="www.linkedin.com/in/danilo-da-silva-ranéa-511200128" 
     alt="LinkedIn"
     target="blank"
   >
