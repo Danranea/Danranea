@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduated in <b>Analysis and Systems Development</b>
 </p>
 <p align="center">
- &nbsp; &nbsp;&nbsp;&nbsp;⛩  Life is about <b>moments.</b> &nbsp; 🛠 Focused in <b>ReactJS</b>, <b>Java</b> and <b>Node.js</b>
+ &nbsp; &nbsp;&nbsp;&nbsp;⛩  Seja o piloto de sua história e voa o mais alto que conseguir. &nbsp; 🛠 Focused in <b>ReactJS</b>, <b>Java</b> and <b>Node.js</b>
 </p>
 
 <p align="center">   
@@ -17,7 +17,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/-Outlook-007ACC?style=flat&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/dan-ranea" 
