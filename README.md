@@ -17,7 +17,7 @@
     alt="Gmail"
     target="blank"
   >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-flat&logo=gmail&logoColor=white" />
   </a>
   <a
     href="https://www.linkedin.com/in/dan-ranea" 
