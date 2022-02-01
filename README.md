@@ -67,7 +67,7 @@ Here some techologies that I work or study about:
 ![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle%20-F80000?style=flat-square&logo=oracle&logoColor=white)
-
+![Angular](https://img.shields.io/badge/Angular%20-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 ## Github Status ⚡
 
